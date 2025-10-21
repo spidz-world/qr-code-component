@@ -18,7 +18,7 @@
 body
 {
     background-color: var(--l-slate-300);
-    font-size: 15px;
+    font-size: 0.938rem;
     font-family: "Outfit", sans-serif;
     font-optical-sizing: auto;
     font-weight: 400;
@@ -36,7 +36,7 @@ main
 
 h1
 {
-    font-size: 22px;
+    font-size: 1.375rem;
     color: var(--l-slate-900);
     margin: 18px 0 16px 0;
 }
@@ -57,7 +57,7 @@ img
 .container
 {
     max-width: 320px;
-    background: white;
+    background: var(--l-white);
     padding: 16px 16px 40px 16px;
     text-align: center;
     border-radius: 20px;
